@@ -1,2 +1,3 @@
-# Ludo_backend_plsql
-THIS REPO CONTAINS ORACLE PL/SQL AND SQL PROGRAMMING. USING THESE TOOLS A DATABASE FOR THE FAMOUS BOARD GAME LUDO IS PROGRAMMED 
+# THE LUDO GAME
+
+This project consists of implementation of the board game ludo. I used Oracle PL/SQL for writing this script.
